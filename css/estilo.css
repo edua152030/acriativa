@@ -1,0 +1,1271 @@
+/*-celulares ------------------------------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------------------------------------------------*/
+@media only screen and (max-width: 640px) {
+
+    #body{
+        margin: 0;
+        padding: none;
+    }
+
+    #site{
+        margin: none;
+        padding: none;
+    }
+
+    #imagem1{
+        width: 100%;
+        height: 150px;   
+        margin: none; 
+        padding: none;
+    }
+
+    #segundoquadro{
+        width:auto;
+        height: 100px;
+        background-color: rgb(1, 1, 53);
+        margin-top: 0px;
+        position: relative;
+    }
+    
+    .imagemsegundoquadro{
+        width: 100%;
+        border-top: 0px;
+        
+    }
+    
+    #um{
+        float: left;
+        height: 60px;
+        width: 35px;
+        margin-top: 20px;
+        margin-left: 5%;
+        transition: 0,5s;
+        position: relative;
+    }
+    
+    #dois{
+        float: left;
+        height: 50px;
+        width: 35px;
+        margin-top: 20px;
+        margin-left: 5%;
+        position: relative;
+    }
+    
+    #tres{
+        float: left;
+        height: 50px;
+        width: 35px;
+        margin-top: 20px;
+        margin-left: 5%;
+        position: relative;
+    }
+    
+    #quatro{
+        float: left;
+        height: 50px;
+        width: 35px;
+        margin-top: 20px;
+        margin-left: 5%;
+        position: relative;
+    }
+    
+
+    #cinco{
+        float: left;
+        height: 50px;
+        width: 35px;
+        margin-top: 20px;
+        margin-left: 5%;
+        position: relative;
+    }
+    
+    
+    #seis{
+        float: left;
+        height: 50px;
+        width: 35px;
+        margin-top: 20px;
+        margin-left: 5%;
+        position: relative;
+    }
+
+    #terceiroquadro{
+        height: auto;  
+    }
+    
+    #tituloterceiro{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        font-size: 10pt;
+        
+    }
+
+    
+    
+    #quartaimagem{
+        height: 130px;
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    #quintoquadro{
+        width: auto;
+        height: 200px;
+        background-color: rgb(145, 145, 145);
+        padding: none;
+        margin: none;
+         }    
+    
+    #tituloquinto{
+        color: rgb(49, 47, 47);
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        width: 100%;
+        text-align: center;
+        position: relative;
+    }
+    
+    #quintaum{
+        float: left;
+        height: 110px;
+        width: 110px;
+        margin-top: 5px;
+        transition: 0,5s;
+        position: relative;
+    }
+    
+    #quintadois{
+        float: left;
+        height: 110px;
+        width: 110px;
+        margin-top: 5px;
+        transition: 0,5s;
+        position: relative;
+    }
+    
+    #quintatres{
+        float: left;
+        height: 110px;
+        width: 110px;
+        margin-top: 5px;
+        transition: 0,5s;
+        position: relative;
+    }
+
+    #quintaquatro{
+        float: left;
+        height: 110px;
+        width: 110px;
+        margin-top: 5px;
+        transition: 0,5s;
+        position: relative;
+    }
+
+    #quintacinco{
+        float: left;
+        height: 110px;
+        width: 110px;
+        margin-top: 5px;
+        transition: 0,5s;
+        position: relative;
+    }
+    
+    #portifolio{
+        width: 100%;
+        height: 600px;
+        background-color: rgb(1, 1, 53);
+        margin-top: 0px;
+        position: absolute;
+    }    
+    
+    #tituloportifolio{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        width: 100%;
+        margin-left: 35%;
+        color: yellow;
+    }
+    
+    #portifolioum{
+        float: left;
+        height: 250px;
+        width: 230px;
+        margin-left: 100px;
+        transition: 0,5s;
+        position: relative;
+        transition: 1s;
+        opacity: 0.6;
+    }
+    
+    #portifolioum:hover{
+        height: 30%;
+        width: 35%;
+        transition: 1s;
+        float: left;
+        opacity: 1;
+    }    
+    
+    #portifoliodois{
+        float: left;
+        height: 250px;
+        width: 230px;
+        margin-left: 100px;
+        transition: 0,5s;
+        position: relative;
+        transition: 1s;
+        opacity: 0.6;
+    }
+    
+    #portifoliodois:hover{
+        height: 30%;
+        width: 35%;
+        transition: 1s;
+        float: left;
+        opacity: 1;
+        position: relative;
+    }
+    
+    #portifoliotres{
+        float: left;
+        height: 250px;
+        width: 230px;
+        margin-left: 100px;
+        transition: 0,5s;
+        transition: 1s;
+        opacity: 0.6;
+        position: relative;
+    }
+    
+    #portifoliotres:hover{
+        height: 30%;
+        width: 35%;
+        transition: 1s;
+        opacity: 1;
+        position: relative;
+    }
+    
+    #portifolioquatro{
+        float: left;
+        height: 250px;
+        width: 230px;
+        margin-left: 430px;
+        transition: 0,5s;
+        transition: 1s;
+        opacity: 0.6;
+        position: relative;
+    }
+    
+    #portifolioquatro:hover{
+        height: 30%;
+        width: 35%;
+        transition: 1s;
+        opacity: 1;
+        position: relative;
+    }
+    
+    #menu {
+        position: fixed;
+        left: 0;
+        top: 0%;
+        background-color: rgb(233, 42, 42);
+        list-style: none;
+        border-radius: 30px;
+        padding: 10px;
+        opacity: 0.6;
+    }
+    
+    #menu1{
+        position:relative; 
+        width: 25px; 
+        height:25px;
+      }
+    
+    #menu2{
+        width: 25px;
+        height: 25px;
+    }
+    
+    #intro {
+        position: fixed
+    }
+    
+    #redesum{
+        float: left;
+        height: 120px;
+        width: 65px;
+        margin-top: 5px;
+        margin-left: 30px;
+        position: relative;
+    }
+    
+    #redesdois{
+        float: left;
+        height: 120px;
+        width: 65px;
+        margin-top: 5px;
+        margin-left: 30px;
+        position: relative;
+    }
+    
+    #redestres{
+        float: left;
+        height: 120px;
+        width: 65px;
+        margin-top: 5px;
+        margin-left: 30px;
+        position: relative;
+    }
+    
+    #sextoquadro{
+        width: 100%;
+        height: 350px;
+        margin-top: 0px;  
+    }
+    
+    #duvida{
+        width: 60%;
+        height: 350px;
+        margin-top: 0px;  
+        float: left;
+        background-color: rgb(104, 137, 197);
+    }
+    
+    .duvidatexto{
+        font-size: 70px;
+        font-style: unset;
+        margin: 0px;
+        margin-top: 60px;
+        margin-left: 45px;
+    }
+    
+    #contenos{
+        width: 40%;
+        height: 350px;
+        margin-top: 0px;
+        float: left; 
+        background-color: yellow;
+        position: relative;
+    }
+    
+    #bten{   
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+    }
+    
+    #conteprimeiro{
+        font-size: 40px;
+        font-style: unset;
+        margin: 0px;
+        margin-top: 60px;
+        margin-left: 65px;
+        position: relative; 
+        
+    }
+    
+    #contesegundo{
+        font-size: 25px;
+        font-style: unset;
+        margin: 0px;
+        margin-top: 30px;
+        margin-left: 65px;
+    }
+    
+    #contato{
+        width: 100%;
+        height: 350px;
+        margin-top: 0px;    
+    }
+    
+    #titulocontato{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        width: 400px;
+        margin-left: 35%;
+        color: rgb(70, 70, 67);
+    }
+    
+    #informacoes{
+        width: 30%;
+        height: 350px;
+        margin-top: 0px;
+        margin-left: 20px;  
+        float: left;
+    }
+    
+    .campo{
+        border-radius: 15px;
+        padding-left: 20px;
+        margin-top: 10px;
+        margin-left: 50%;
+    }
+    
+    
+    
+    #dudu{
+        text-align: center;
+    }
+}
+
+
+
+/*-tablets------------------------------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------------------------------------------------*/
+
+@media only screen and (min-width: 640px) {
+    #imagem1{
+        width: 100%;
+        height: 350px;   
+        padding: none;
+        margin: 0px; 
+    }
+
+    #segundoquadro{
+        width:auto;
+        height: 250px;
+        background-color: rgb(1, 1, 53);
+        margin-top: 0px;
+    }
+    
+    .imagemsegundoquadro{
+        width: 100%;
+        border-top: 0px;
+        
+    }
+    
+    #um{
+        float: left;
+        height: 200px;
+        width: 165px;
+        margin-top: 40px;
+        margin-left: 40px;
+        transition: 0,5s;
+        position: relative;
+    }
+    
+    #um:hover{
+        padding: 5px;
+        transition: 0,5s;
+        margin-top: 10px;
+        height: 210px;
+    }
+    
+    #dois{
+        float: left;
+        height: 200px;
+        width: 165px;
+        margin-top: 40px;
+        margin-left: 40px;
+        position: relative;
+    }
+    
+    #dois:hover{
+        padding: 5px;
+        transition: 0,5s;
+        margin-top: 10px;
+        height: 210px;
+    }
+    
+    #tres{
+        float: left;
+        height: 200px;
+        width: 165px;
+        margin-top: 40px;
+        margin-left: 40px;
+        position: relative;
+    }
+    
+    #tres:hover{
+        padding: 5px;
+        transition: 0,5s;
+        margin-top: 10px;
+        height: 210px;
+    }
+    
+    #quatro{
+        float: left;
+        height: 200px;
+        width: 165px;
+        margin-top: 40px;
+        margin-left: 40px;
+        position: relative;
+    }
+    
+    #quatro:hover{
+        padding: 5px;
+        transition: 0,5s;
+        margin-top: 10px;
+        height: 210px;
+        position: relative;
+    }
+    
+    #cinco{
+        float: left;
+        height: 200px;
+        width: 165px;
+        margin-top: 40px;
+        margin-left: 40px;
+        position: relative;
+    }
+    
+    #cinco:hover{
+        padding: 5px;
+        transition: 0,5s;
+        margin-top: 10px;
+        height: 210px;
+    }
+    
+    #seis{
+        float: left;
+        height: 200px;
+        width: 165px;
+        margin-top: 40px;
+        margin-left: 40px;
+        position: relative;
+    }
+    
+    #seis:hover{
+        padding: 5px;
+        transition: 0,5s;
+        margin-top: 10px;
+        height: 210px;
+    }
+    
+    #terceiroquadro{
+        width: 100%;
+        height: 450px;
+    }
+    
+    #tituloterceiro{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        width: 400px;
+        margin-left: 35%;
+    }
+    
+    #quartaimagem{
+            width: 100%;
+            height: 450px;
+    }
+    
+    #quintoquadro{
+        width: 100%;
+        height: 350px;
+        background-color: rgb(145, 145, 145);
+    }    
+    
+    #tituloquinto{
+        color: rgb(49, 47, 47);
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        width: 400px;
+        margin-left: 35%;
+    }
+    
+    #quintaum{
+        float: left;
+        height: 200px;
+        width: 200px;
+        margin-top: 40px;
+        margin-left: 40px;
+        transition: 0,5s;
+        position: relative;
+    }
+    
+    #quintaum:hover{
+        padding: 5px;
+        transition: 0,5s;
+        margin-top: 10px;
+        height: 210px;
+    }
+    
+    #quintadois{
+        float: left;
+        height: 200px;
+        width: 200px;
+        margin-top: 40px;
+        margin-left: 40px;
+        transition: 0,5s;
+        position: relative;
+    }
+    
+    #quintadois:hover{
+        padding: 5px;
+        transition: 0,5s;
+        margin-top: 10px;
+        height: 210px;
+    }
+    
+    #quintatres{
+        float: left;
+        height: 200px;
+        width: 200px;
+        margin-top: 40px;
+        margin-left: 40px;
+        transition: 0,5s;
+        position: relative;
+    }
+    
+    #quintatres:hover{
+        padding: 5px;
+        transition: 0,5s;
+        margin-top: 10px;
+        height: 210px;
+    }
+    
+    #quintaquatro{
+        float: left;
+        height: 200px;
+        width: 200px;
+        margin-top: 40px;
+        margin-left: 40px;
+        transition: 0,5s;
+        position: relative;
+    }
+    
+    #quintaquatro:hover{
+        padding: 5px;
+        transition: 0,5s;
+        margin-top: 10px;
+        height: 210px;
+    }
+    
+    #quintacinco{
+        float: left;
+        height: 200px;
+        width: 200px;
+        margin-top: 40px;
+        margin-left: 40px;
+        transition: 0,5s;
+        position: relative;
+    }
+    
+    #quintacinco:hover{
+        padding: 5px;
+        transition: 0,5s;
+        margin-top: 10px;
+        height: 210px;
+    }
+    
+    
+    #portifolio{
+        width: 100%;
+        height: 600px;
+        background-color: rgb(1, 1, 53);
+        margin-top: 0px;
+        position: relative;
+    }    
+    
+    #tituloportifolio{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        width: 90%;
+        margin-left: 35%;
+        color: yellow;
+    }
+    
+    #portifolioum{
+        float: left;
+        height: 50px;
+        width: 30px;
+        margin-left: 100px;
+        transition: 0,5s;
+        
+        transition: 1s;
+        opacity: 0.6;
+    }   
+    
+    #portifoliodois{
+        float: left;
+        height: 50px;
+        width: 30px;
+        
+        transition: 0,5s;
+        
+        transition: 1s;
+        opacity: 0.6;
+    }
+    
+    #portifoliotres{
+        float: left;
+        height: 50px;
+        width: 30px;
+        
+        transition: 0,5s;
+        transition: 1s;
+        opacity: 0.6;
+       
+    }
+    
+    #portifolioquatro{
+        float: left;
+        height: 50px;
+        width: 30px;
+       
+        transition: 0,5s;
+        transition: 1s;
+        opacity: 0.6;
+       
+    }
+    
+    #menu {
+        position: fixed;
+        right: 0;
+        top: 20%;
+        background-color: rgb(233, 42, 42);
+        list-style: none;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        padding: 10px;
+        opacity: 0.7;
+    }
+    
+    #menu:hover{
+        opacity: 1;
+    }
+    
+    #menu1{
+        position:relative; 
+        widows: 20px; 
+        height:45px;
+      }
+    
+    #menu2{
+        width: 45px;
+        height: 45px;
+    }
+    
+    #intro {
+        position: fixed
+    }
+    
+    #redesum{
+        float: left;
+        height: 40px;
+        width: 25px;
+        margin-top: 20px;
+       
+        transition: 0,5s;
+        position: relative;
+    }
+    
+    #redesdois{
+        float: left;
+        height: 400px;
+        width: 265px;
+        margin-top: 20px;
+        margin-left: 130px;
+        transition: 0,5s;
+        position: relative;
+    }
+    
+    #redestres{
+        float: left;
+        height: 400px;
+        width: 265px;
+        margin-top: 20px;
+        margin-left: 130px;
+        transition: 0,5s;
+        position: relative;
+    }
+    
+    #sextoquadro{
+        width: 100%;
+        height: 200px;
+        margin-top: 0px;  
+    }
+    
+    #dudu{
+        text-align: center;
+    }
+}
+
+/*-computador-----------------------------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------------------------------------------------*/
+
+@media only screen and (min-width: 940px){
+
+#imagem1{
+    width: 100%;
+    height: 650px;
+    }
+
+#segundoquadro{
+    width:auto;
+    height: 250px;
+    background-color: rgb(1, 1, 53);
+    margin-top: 0px;
+}
+
+.imagemsegundoquadro{
+    width: 100%;
+    border-top: 0px;
+    
+}
+
+#um{
+    float: left;
+    height: 200px;
+    width: 165px;
+    margin-top: 40px;
+    margin-left: 40px;
+    transition: 0,5s;
+    position: relative;
+}
+
+#um:hover{
+    padding: 5px;
+    transition: 0,5s;
+    margin-top: 10px;
+    height: 210px;
+}
+
+#dois{
+    float: left;
+    height: 200px;
+    width: 165px;
+    margin-top: 40px;
+    margin-left: 40px;
+    position: relative;
+}
+
+#dois:hover{
+    padding: 5px;
+    transition: 0,5s;
+    margin-top: 10px;
+    height: 210px;
+}
+
+#tres{
+    float: left;
+    height: 200px;
+    width: 165px;
+    margin-top: 40px;
+    margin-left: 40px;
+    position: relative;
+}
+
+#tres:hover{
+    padding: 5px;
+    transition: 0,5s;
+    margin-top: 10px;
+    height: 210px;
+}
+
+#quatro{
+    float: left;
+    height: 200px;
+    width: 165px;
+    margin-top: 40px;
+    margin-left: 40px;
+    position: relative;
+}
+
+#quatro:hover{
+    padding: 5px;
+    transition: 0,5s;
+    margin-top: 10px;
+    height: 210px;
+    position: relative;
+}
+
+#cinco{
+    float: left;
+    height: 200px;
+    width: 165px;
+    margin-top: 40px;
+    margin-left: 40px;
+    position: relative;
+}
+
+#cinco:hover{
+    padding: 5px;
+    transition: 0,5s;
+    margin-top: 10px;
+    height: 210px;
+}
+
+#seis{
+    float: left;
+    height: 200px;
+    width: 165px;
+    margin-top: 40px;
+    margin-left: 40px;
+    position: relative;
+}
+
+#seis:hover{
+    padding: 5px;
+    transition: 0,5s;
+    margin-top: 10px;
+    height: 210px;
+}
+
+#terceiroquadro{
+    width: 100%;
+    height: 450px;
+}
+
+#tituloterceiro{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 400px;
+    margin-left: 35%;
+}
+
+#quartaimagem{
+        width: 100%;
+        height: 450px;
+}
+
+#quintoquadro{
+    width: 100%;
+    height: 350px;
+    background-color: rgb(145, 145, 145);
+}    
+
+#tituloquinto{
+    color: rgb(49, 47, 47);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 400px;
+    margin-left: 35%;
+}
+
+#quintaum{
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    transition: 0,5s;
+    position: relative;
+}
+
+#quintaum:hover{
+    padding: 5px;
+    transition: 0,5s;
+    margin-top: 10px;
+    height: 210px;
+}
+
+#quintadois{
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    transition: 0,5s;
+    position: relative;
+}
+
+#quintadois:hover{
+    padding: 5px;
+    transition: 0,5s;
+    margin-top: 10px;
+    height: 210px;
+}
+
+#quintatres{
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    transition: 0,5s;
+    position: relative;
+}
+
+#quintatres:hover{
+    padding: 5px;
+    transition: 0,5s;
+    margin-top: 10px;
+    height: 210px;
+}
+
+#quintaquatro{
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    transition: 0,5s;
+    position: relative;
+}
+
+#quintaquatro:hover{
+    padding: 5px;
+    transition: 0,5s;
+    margin-top: 10px;
+    height: 210px;
+}
+
+#quintacinco{
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    transition: 0,5s;
+    position: relative;
+}
+
+#quintacinco:hover{
+    padding: 5px;
+    transition: 0,5s;
+    margin-top: 10px;
+    height: 210px;
+}
+
+
+#portifolio{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(1, 1, 53);
+    margin-top: 0px;
+    position: relative;
+}    
+
+#tituloportifolio{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 400px;
+    margin-left: 35%;
+    color: yellow;
+}
+
+#portifolioum{
+    float: left;
+    height: 250px;
+    width: 230px;
+    margin-left: 100px;
+    transition: 0,5s;
+    position: relative;
+    transition: 1s;
+    opacity: 0.6;
+}
+
+#portifolioum:hover{
+    height: 30%;
+    width: 35%;
+    transition: 1s;
+    float: left;
+    opacity: 1;
+}    
+
+#portifoliodois{
+    float: left;
+    height: 250px;
+    width: 230px;
+    margin-left: 100px;
+    transition: 0,5s;
+    position: relative;
+    transition: 1s;
+    opacity: 0.6;
+}
+
+#portifoliodois:hover{
+    height: 30%;
+    width: 35%;
+    transition: 1s;
+    float: left;
+    opacity: 1;
+    position: relative;
+}
+
+#portifoliotres{
+    float: left;
+    height: 250px;
+    width: 230px;
+    margin-left: 100px;
+    transition: 0,5s;
+    transition: 1s;
+    opacity: 0.6;
+    position: relative;
+}
+
+#portifoliotres:hover{
+    height: 30%;
+    width: 35%;
+    transition: 1s;
+    opacity: 1;
+    position: relative;
+}
+
+#portifolioquatro{
+    float: left;
+    height: 250px;
+    width: 230px;
+    margin-left: 430px;
+    transition: 0,5s;
+    transition: 1s;
+    opacity: 0.6;
+    position: relative;
+}
+
+#portifolioquatro:hover{
+    height: 30%;
+    width: 35%;
+    transition: 1s;
+    opacity: 1;
+    position: relative;
+}
+
+#menu {
+    position: fixed;
+    right: 0;
+    top: 20%;
+    background-color: rgb(233, 42, 42);
+    list-style: none;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    padding: 10px;
+    opacity: 0.7;
+}
+
+#menu:hover{
+    opacity: 1;
+}
+
+#menu1{
+    position:relative; 
+    widows: 20px; 
+    height:45px;
+  }
+
+#menu2{
+    width: 45px;
+    height: 45px;
+}
+
+#intro {
+    position: fixed
+}
+
+#redesum{
+    float: left;
+    height: 400px;
+    width: 265px;
+    margin-top: 20px;
+    margin-left: 130px;
+    transition: 0,5s;
+    position: relative;
+}
+
+#redesdois{
+    float: left;
+    height: 400px;
+    width: 265px;
+    margin-top: 20px;
+    margin-left: 130px;
+    transition: 0,5s;
+    position: relative;
+}
+
+#redestres{
+    float: left;
+    height: 400px;
+    width: 265px;
+    margin-top: 20px;
+    margin-left: 130px;
+    transition: 0,5s;
+    position: relative;
+}
+
+#sextoquadro{
+    width: 100%;
+    height: 350px;
+    margin-top: 0px;  
+}
+
+#duvida{
+    width: 60%;
+    height: 350px;
+    margin-top: 0px;  
+    float: left;
+    background-color: rgb(104, 137, 197);
+}
+
+.duvidatexto{
+    font-size: 70px;
+    font-style: unset;
+    margin: 0px;
+    margin-top: 60px;
+    margin-left: 45px;
+}
+
+#contenos{
+    width: 40%;
+    height: 350px;
+    margin-top: 0px;
+    float: left; 
+    background-color: yellow;
+    position: relative;
+}
+
+#bten{   
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+#conteprimeiro{
+    font-size: 40px;
+    font-style: unset;
+    margin: 0px;
+    margin-top: 60px;
+    margin-left: 65px;
+    position: relative; 
+    
+}
+
+#contesegundo{
+    font-size: 25px;
+    font-style: unset;
+    margin: 0px;
+    margin-top: 30px;
+    margin-left: 65px;
+}
+
+#contato{
+    width: 100%;
+    height: 350px;
+    margin-top: 0px;    
+}
+
+#titulocontato{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 400px;
+    margin-left: 35%;
+    color: rgb(70, 70, 67);
+}
+
+#informacoes{
+    width: 30%;
+    height: 350px;
+    margin-top: 0px;
+    margin-left: 20px;  
+    float: left;
+}
+
+.campo{
+    border-radius: 15px;
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-left: 50%;
+}
+
+
+
+#dudu{
+    text-align: center;
+}
+
+}
